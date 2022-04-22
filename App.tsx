@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     display: 'flex',
     justifyContent: 'space-evenly',
     height: '100%',
-    width: '60%',
+    width: '50%',
   },
   greenBox: {
     width: 100,
